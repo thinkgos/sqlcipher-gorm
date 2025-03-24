@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/thinkgos/sqlcipher"
+	"github.com/thinkgos/sqlcipher-gorm"
 	"gorm.io/gorm"
 )
 
