@@ -7,7 +7,7 @@ import (
 
 	"gorm.io/gorm/callbacks"
 
-	_ "github.com/mutecomm/go-sqlcipher/v4"
+	_ "github.com/thinkgos/go-sqlcipher"
 	"gorm.io/gorm"
 	"gorm.io/gorm/clause"
 	"gorm.io/gorm/logger"
