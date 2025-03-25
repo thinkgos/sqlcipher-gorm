@@ -3,7 +3,7 @@ module github.com/thinkgos/sqlcipher-gorm
 go 1.22
 
 require (
-	github.com/thinkgos/go-sqlcipher v0.0.0-20250324133838-18fe6c08ea5e
+	github.com/thinkgos/go-sqlcipher v0.0.0-20250325023025-9366370beab6
 	gorm.io/gorm v1.25.12
 )
 
