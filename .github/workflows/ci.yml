@@ -9,7 +9,7 @@ jobs:
     name: Test
     strategy:
       matrix:
-        go: ['1.24', '1.23', '1.22']
+        go: ['1.22.x', '1.24.x']
         platform: [ubuntu-latest] # can not run in windows OS
     runs-on: ubuntu-latest
     steps:
