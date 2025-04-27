@@ -4,7 +4,7 @@ go 1.22
 
 require (
 	github.com/thinkgos/go-sqlcipher v0.2.0
-	gorm.io/gorm v1.25.12
+	gorm.io/gorm v1.26.0
 )
 
 require (
